@@ -5,3 +5,4 @@
 ./4-lastlines script that displays the last 10 lines of /etc/passwd
 ./5-firstlines script that displays the first 10 lines of /etc/passwd
 ./6-third_line script that displays the content of the third line of the file iacta
+./7-file a script that creates a file with specific name and content

@@ -17,3 +17,5 @@
 ./17-hidethisword displays lines that does not contain "bin" in /etc/passwd file
 ./18-letteronly script displays all lines of the given file stating with letter
 ./19-AZ a script that replaces characters
+./20-hiago a script that removes letter c and C from input
+

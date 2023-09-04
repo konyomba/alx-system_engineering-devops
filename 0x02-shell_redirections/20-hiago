@@ -1,0 +1,2 @@
+#!/bin/bash
+tr [ -c| -cds| -cs|-C|-Cds|-Cs|-ds| -s][-A]String1 String2

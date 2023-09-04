@@ -10,4 +10,4 @@
 ./9-duplicate_last_line a script that duplicates the last line of the file iacta./10-no_more_js is  a script all the regular files with a .js extension that are present in the current directory and its subfolders
 ./11-directories is a script that counts number of directories and subdirectories in the current directory including hidden directories
 ./12-newest_files the script displays the 10 newest files in the current directory
-
+./13-unique a script that takes a list of words as inpuut and prints only words that appear exactly once

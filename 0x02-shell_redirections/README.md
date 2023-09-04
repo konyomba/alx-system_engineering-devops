@@ -18,4 +18,5 @@
 ./18-letteronly script displays all lines of the given file stating with letter
 ./19-AZ a script that replaces characters
 ./20-hiago a script that removes letter c and C from input
+./21-reverse a script that reverse its input
 

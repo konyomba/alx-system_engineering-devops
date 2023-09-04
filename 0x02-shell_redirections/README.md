@@ -19,4 +19,4 @@
 ./19-AZ a script that replaces characters
 ./20-hiago a script that removes letter c and C from input
 ./21-reverse a script that reverse its input
-
+./22-user_and_home a script that displas all users and their home directories,sorted by users

@@ -13,3 +13,4 @@
 ./13-unique a script that takes a list of words as inpuut and prints only words that appear exactly once
 ./14-findthatword a script that displays the pattern "root" from the file /etc/passwd
 ./15-countthatword a script that displays the number of lines contained in the pattern "bin" in the file /etc/passwd
+./16-whatsnet script that displays a pattern specified i.e "root" and 3 lines after the file /etc/passwd

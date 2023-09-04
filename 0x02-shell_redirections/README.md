@@ -15,3 +15,4 @@
 ./15-countthatword a script that displays the number of lines contained in the pattern "bin" in the file /etc/passwd
 ./16-whatsnet script that displays a pattern specified i.e "root" and 3 lines after the file /etc/passwd
 ./17-hidethisword displays lines that does not contain "bin" in /etc/passwd file
+./18-letteronly script displays all lines of the given file stating with letter

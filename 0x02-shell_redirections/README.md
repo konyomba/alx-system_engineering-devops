@@ -7,3 +7,4 @@
 ./6-third_line script that displays the content of the third line of the file iacta
 ./7-file a script that creates a file with specific name and content
 ./8-cwd_state is a script that writes the content of the command ls -la to the file ls_cwd_content and if the content exists it overwrites and if the file does not exist it also creates it
+./9-duplicate_last_line a script that duplicates the last line of the file iacta

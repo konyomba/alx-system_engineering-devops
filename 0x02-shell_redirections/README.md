@@ -11,3 +11,4 @@
 ./11-directories is a script that counts number of directories and subdirectories in the current directory including hidden directories
 ./12-newest_files the script displays the 10 newest files in the current directory
 ./13-unique a script that takes a list of words as inpuut and prints only words that appear exactly once
+./14-findthatword a script that displays the pattern "root" from the file /etc/passwd

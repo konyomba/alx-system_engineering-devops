@@ -10,3 +10,4 @@ script ./-hello_you prints hello user in the current linux user
 ./8-true_knowledge is a script that prints the results of adding 128 with the value of environment variable TRUEKNOWLEDGE
 ./9-divide_and_rule a script that performs division of two environment variables named POWER and DIVIDE
 ./10-love_exponent_breath a script that finds the power of two stored variables
+./11-binary_to_decimal  the script converts a variable in binary to decimal

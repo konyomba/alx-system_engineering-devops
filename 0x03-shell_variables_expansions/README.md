@@ -7,3 +7,4 @@ script ./-hello_you prints hello user in the current linux user
 /5-local_variables script lists all local variables and environment variables and function
 ./6-create_local_variable script creates a local variable named BEST with value of School
 ./7-create_global_variable a script that creates a new global variable named BEST with the value of School
+./8-true_knowledge is a script that prints the results of adding 128 with the value of environment variable TRUEKNOWLEDGE

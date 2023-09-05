@@ -9,3 +9,4 @@ script ./-hello_you prints hello user in the current linux user
 ./7-create_global_variable a script that creates a new global variable named BEST with the value of School
 ./8-true_knowledge is a script that prints the results of adding 128 with the value of environment variable TRUEKNOWLEDGE
 ./9-divide_and_rule a script that performs division of two environment variables named POWER and DIVIDE
+./10-love_exponent_breath a script that finds the power of two stored variables

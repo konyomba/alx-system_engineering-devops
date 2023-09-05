@@ -5,3 +5,4 @@ script ./-hello_you prints hello user in the current linux user
 ./3-path a script that counts the number of directories in the PATH
 ./4-global_variable script prints list of environment variables
 /5-local_variables script lists all local variables and environment variables and function
+./6-create_local_variable script creates a local variable named BEST with value of School

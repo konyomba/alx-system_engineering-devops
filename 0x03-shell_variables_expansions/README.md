@@ -13,3 +13,4 @@ script ./-hello_you prints hello user in the current linux user
 ./11-binary_to_decimal  the script converts a variable in binary to decimal
 ./12-combinations a script that that prints all possible combinations ot two letters
 ./13-print_float a script that prints a number with two decimal places
+./100-decimal_to_hexadecimal is a script that converts decimal number stored in the variable DECIMAL to hexadecimal
